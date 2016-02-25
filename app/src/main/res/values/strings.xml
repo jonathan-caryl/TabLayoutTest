@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TabLayoutTest</string>
+    <string name="action_empty">Empty Activity</string>
+    <string name="action_add_tab">Add tab</string>
+    <string name="action_remove_tab">Remove tab</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+</resources>
